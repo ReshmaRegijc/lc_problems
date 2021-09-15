@@ -1,4 +1,4 @@
-from src.lc_problems import add1
+from src.lc_problems import add1,add2
 
 def test_add1():
     assert add1(7)==8
